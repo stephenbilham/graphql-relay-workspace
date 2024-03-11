@@ -1,15 +1,40 @@
 {
-	"users": [
-		{ "id": "24", "firstName": "John", "age": 20, "companyId": "1" },
-		{ "id": "40", "firstName": "Nathan", "age": 32, "companyId": "2" },
-		{ "id": "41", "firstName": "Seth", "age": 31, "companyId": "1" }
-	],
-	"companies": [
-		{
-			"id": "1",
-			"name": "Google",
-			"description": "what do you want to search?"
-		},
-		{ "id": "2", "name": "Facebook", "description": "Mark Zuckerberg was here" }
-	]
+  "users": [
+    {
+      "id": "24",
+      "firstName": "molly",
+      "age": 20,
+      "companyId": 1
+    },
+    {
+      "id": "40",
+      "firstName": "Nathan",
+      "age": 32,
+      "companyId": "2"
+    },
+    {
+      "id": "41",
+      "firstName": "Seth",
+      "age": 31,
+      "companyId": "1"
+    },
+    {
+      "firstName": "benny",
+      "age": 53,
+      "id": "Rucwhq0",
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Google",
+      "description": "what do you want to search?"
+    },
+    {
+      "id": "2",
+      "name": "Facebook",
+      "description": "Mark Zuckerberg was here"
+    }
+  ]
 }
